@@ -64,7 +64,6 @@ return {
   { import = "astrocommunity.completion.copilot-lua" },
   -- { import = "astrocommunity.editing-support.conform-nvim" },
   { import = "astrocommunity.editing-support.refactoring-nvim" },
-  { import = "astrocommunity.editing-support.chatgpt-nvim" },
   { import = "astrocommunity.scrolling.mini-animate" },
   -- { import = "astrocommunity.scrolling.cinnamon-nvim" },
   -- { import = "astrocommunity.media.vim-wakatime" },
