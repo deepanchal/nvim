@@ -12,6 +12,7 @@ return {
 
   -- Pack
   { import = "astrocommunity.pack.lua" },
+  { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.toml" },
