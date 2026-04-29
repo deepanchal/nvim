@@ -113,4 +113,8 @@ return {
       },
     },
   },
+
+  {
+    "delphinus/vim-firestore",
+  },
 }
